@@ -1,3 +1,5 @@
+#! /bin/bash
+
 DOWNLOAD_DIRECTORY='<input directory to download to here>'
 WEBSERVER_URL='<input webserver address here>'
 
